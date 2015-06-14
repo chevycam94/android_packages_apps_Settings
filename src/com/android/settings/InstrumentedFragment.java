@@ -25,6 +25,7 @@ import com.android.internal.logging.MetricsLogger;
 public abstract class InstrumentedFragment extends PreferenceFragment {
     // Declare new temporary categories here, starting after this value.
     public static final int UNDECLARED = 100000;
+    public static final int IT_HURTS_WHEN_IP = 100001;
 
     /**
      * Declare the view of this category.
