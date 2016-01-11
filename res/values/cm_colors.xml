@@ -83,4 +83,6 @@ limitations under the License.
     <color name="contributors_cloud_selected_color">#ff5252</color>
 
     <color name="external_tile_icon_tint_color">?android:attr/colorAccent</color>
+
+    <color name="white">#ffffffff</color>
 </resources>
