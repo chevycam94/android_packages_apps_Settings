@@ -61,13 +61,6 @@
             android:title="@string/dock_audio_media_title"
             android:persistent="false" />
 
-    <!-- Screenshot tone -->
-    <com.android.settings.preference.SystemSettingSwitchPreference
-            android:key="screenshot_sound"
-            android:title="@string/screenshot_sound_title"
-            android:summary="@string/screenshot_sound_summary"
-            android:defaultValue="false" />
-
     <!-- Emergency tone -->
     <com.android.settings.DropDownPreference
             android:key="emergency_tone"
